@@ -4,6 +4,6 @@ Using the Policy Database from Wuepper (2024)1, I extracted the policies that de
 Then, on clearly distinguishable cluster, a group of policies dealing with environmental protection was selected, to perform a more guided clustering, to assign a goal, an instrument and an affected group to the policies.
 The Clustering Processes are described in the Jupyter Notebooks
 
-## Limits
+## Limitations and further Remarks
 Some abstracts where not provided in a suffient matter, there wer empty or only contained a sentence, which was not sufficient for the analysis. Further since the translation to english was done using deepl pro, translating at least from spanish and french to english, there might still appear non-english phrases in the english abstracts. 
 
